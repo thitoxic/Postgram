@@ -1,0 +1,12 @@
+.post-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 10rem;
+}
+
+.post-container {
+    background-color: rgb(154, 237, 154);
+    margin: 1em;
+    padding: 1em;
+    border-radius: 20px;
+}
